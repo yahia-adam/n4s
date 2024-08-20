@@ -6,9 +6,7 @@ Voici un README similaire pour le projet Need4Stek, basé sur les informations q
 
 Ce projet développe un programme en C qui contrôle une voiture autonome dans un environnement de simulation V-REP. En utilisant des capteurs LIDAR simulés, le programme ajuste la vitesse et la direction de la voiture pour naviguer sur une piste. Cette simulation offre une expérience pratique de la programmation de véhicules autonomes, combinant des algorithmes de navigation de base avec une interface de simulation 3D.
 
-
-Video Demo
-
+Clicker video Demo
 
 [![Demo](https://img.youtube.com/vi/DImUoC9wzeo/0.jpg)](https://youtu.be/DImUoC9wzeo "Demo Video")
 
