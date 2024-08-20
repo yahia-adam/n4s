@@ -22,8 +22,8 @@ Ce projet développe un programme en C qui contrôle une voiture autonome dans u
 Commencez par cloner le dépôt sur votre machine locale :
 
 ```bash
-git clone [URL_DU_REPO]
-cd Need4Stek
+git clone git@github.com:yahia-adam/n4s.git
+cd n4s
 ```
 
 ### Compiler le programme
@@ -47,7 +47,7 @@ Assurez-vous que V-REP est correctement installé sur votre système. Vous devre
 Lancez V-REP en utilisant le script fourni :
 
 ```bash
-./vrep.sh
+./V-REP_PRO_EDU_V3_3_1_64_Linux/vrep.sh
 ```
 
 Dans V-REP, ouvrez un fichier .ttt qui contient la scène de simulation.
@@ -71,7 +71,7 @@ Pour exécuter le programme et le connecter à V-REP :
 
 - `ia` : Le binaire principal
 - `includes/` : Fichiers d'en-tête
-- `srcs/` : Fichiers source C
+- `src/` : Fichiers source C
 - `Makefile` : Pour la compilation du projet
 - `pipe.sh` : Script pour connecter le programme C à V-REP
 - `vrep.sh` : Script pour lancer V-REP
